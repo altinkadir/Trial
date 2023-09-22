@@ -1,10 +1,8 @@
 package com.neotech.studentClasses;
 
-public class SabahBushaj {
-
+public class AltinKadir {
 	public static void main(String[] args) {
-
-		System.out.println("Hello");
+		System.out.println("Just hanging around :)");
 	}
 
 }
